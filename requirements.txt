@@ -1,0 +1,32 @@
+# Core RL and ML libraries
+torch>=2.0.0
+numpy>=1.21.0
+gymnasium>=0.28.0
+stable-baselines3>=2.0.0
+
+# Environment libraries
+mujoco>=2.3.0
+gymnasium-minigrid>=2.0.0
+
+# Data analysis and visualization
+pandas>=1.5.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+scipy>=1.9.0
+
+# Additional scientific libraries
+scikit-learn>=1.1.0
+tqdm>=4.64.0
+
+# Development and testing
+pytest>=7.0.0
+jupyter>=1.0.0
+ipython>=8.0.0
+
+# Optional: For advanced MI estimation
+# pyro-ppl>=1.8.0
+# pytorch-lightning>=1.7.0
+
+# System utilities
+psutil>=5.9.0
+GPUtil>=1.4.0
